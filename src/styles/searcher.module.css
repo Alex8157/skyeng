@@ -1,0 +1,13 @@
+.searcher {
+  display: flex;
+  gap: 1vw;
+}
+button {
+  cursor: pointer;
+}
+.sort {
+  width: 30vw;
+}
+.sortText {
+  cursor: pointer;
+}

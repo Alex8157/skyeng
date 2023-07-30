@@ -1,0 +1,23 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  gap: 1vw;
+  margin: 3vw;
+}
+.row {
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+  border: 1px solid black;
+  border-radius: 1vw;
+  padding: 1vw;
+  cursor: pointer;
+}
+.avatar {
+  width: 3vw;
+  height: 3vw;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.login {
+}

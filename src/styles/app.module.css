@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5vw 0 0;
+}
+.more {
+  margin: 1vw 0 5vw;
+  cursor: pointer;
+}
